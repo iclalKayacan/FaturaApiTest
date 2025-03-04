@@ -1,4 +1,4 @@
-BirFatura API Test Projesi
+
 Bu proje, ASP.NET Web API kullanılarak geliştirilmiş olup BirFatura API ile entegrasyonu sağlamaktadır.
 
 📌 Proje Özellikleri
